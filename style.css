@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.button{
+  border:2px solid #a6f1ed;
+  display:inline;
+}
+.row{
+  margin:5px;
+}
